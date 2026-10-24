@@ -1,12 +1,11 @@
 {
-  "name": "Joguin — A Cidade que Esqueceu o Amanhecer",
+  "name": "Joguin — A Última Frequência",
   "short_name": "Joguin",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b0a13",
-  "theme_color": "#10101b",
-  "orientation": "any",
+  "background_color": "#090910",
+  "theme_color": "#100d19",
   "icons": [
     {
       "src": "./icon-192.png",
