@@ -1,0 +1,22 @@
+JOGUIN — COMO INSTALAR NO CELULAR
+
+O jogo é um PWA (aplicativo web instalável), com 5 capítulos e progresso local.
+
+TESTAR NO COMPUTADOR
+Abra index.html no navegador. O jogo funciona mesmo sem servidor, mas a instalação e o cache offline exigem HTTPS ou localhost.
+
+PUBLICAR PARA INSTALAR
+1. Crie um repositório público no GitHub.
+2. Envie TODOS os arquivos desta pasta para a raiz do repositório.
+3. Em Settings > Pages, escolha Deploy from a branch, branch main e pasta / (root).
+4. Aguarde a publicação. Abra o endereço HTTPS fornecido pelo GitHub Pages.
+
+ANDROID
+Abra o link no Chrome > menu ⋮ > Instalar app ou Adicionar à tela inicial.
+
+IPHONE
+Abra o link no Safari > Compartilhar > Adicionar à Tela de Início > Adicionar.
+
+O jogo funciona offline depois que os arquivos forem carregados e armazenados pelo navegador; o progresso é salvo localmente no aparelho. Não há músicas comerciais: a trilha é gerada pelo navegador, e precisa ser ligada pelo botão.
+
+Para modificar a mensagem final, procure por 'Eu te amo, minha nenem' no index.html.
